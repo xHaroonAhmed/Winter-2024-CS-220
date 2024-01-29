@@ -1,0 +1,62 @@
+/Users/haroonahmed/PycharmProjects/pythonProject/.venv/bin/python /Users/haroonahmed/PycharmProjects/pythonProject/Assignment3.py
+questions q1
+f_identity is_total True, is_partial True, is_injective True, is_surjective True, is_bijective True
+f_successor is_total False, is_partial True, is_injective True, is_surjective False, is_bijective False
+f_predecessor is_total False, is_partial True, is_injective True, is_surjective False, is_bijective False
+f_square is_total False, is_partial True, is_injective True, is_surjective False, is_bijective False
+
+questions q2
+Union {'abc', 'a', 'ab', 'bb', 'ccc', 'abcd', 'dddd'}
+Intersection {'ccc', 'bb', 'a', 'dddd'}
+Difference {'abc', 'ab', 'abcd'}
+Symmetric Difference {'abc', 'ab', 'abcd'}
+Cartesian Product {('ab', 'dddd'), ('abcd', 'bb'), ('abc', 'bb'), ('ab', 'bb'), ('abcd', 'a'), ('abc', 'a'), ('abcd', 'ccc'), ('ab', 'a'), ('abcd', 'dddd'), ('abc', 'ccc'), ('abc', 'dddd'), ('ab', 'ccc')}
+Power Set <itertools.chain object at 0x10b2b2d10>
+Power Set <itertools.chain object at 0x10b2b2d10>
+
+questions q3
+sum counting numbers 55 55.0
+sum squares numbers 385 385.0
+sum cubes numbers 3025 3025.0
+sum geometric numbers 362797055 362797055.0
+sum arithmetic numbers 275 275.0
+
+questions q4
+[[17 15  4 11  5]
+ [16 14  6 18 16]
+ [19 19 13 12  8]
+ [12  7  9 14 11]
+ [19  8 19  3 16]]
+
+[[17 15  4 11  5]
+ [16 14  6 18 16]
+ [19 19 13 12  8]
+ [12  7  9 14 11]
+ [19  8 19  3 16]]
+
+[[155 161  83 174 116]
+ [241 195 151 223 153]
+ [227 233 134 251 175]
+ [185 139 136 146 118]
+ [318 262 228 266 214]]
+
+[[155 161  83 174 116]
+ [241 195 151 223 153]
+ [227 233 134 251 175]
+ [185 139 136 146 118]
+ [318 262 228 266 214]]
+
+
+questions q5
+old number:  0.010011 0.296875
+old number:  0.101010 0.65625
+old number:  0.111000 0.875
+old number:  0.000111 0.109375
+old number:  0.111111 0.984375
+old number:  0.111000 0.875
+new number: 0.110001 0.765625
+
+questions q6
+
+
+Process finished with exit code 0

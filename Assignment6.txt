@@ -1,0 +1,19 @@
+/Users/haroonahmed/PycharmProjects/pythonProject/.venv/bin/python /Users/haroonahmed/PycharmProjects/pythonProject/Assignment6.py
+                              10        100        1000        10000
+native_search              0.357628  1.032829   6.592274   54.812908
+linear_search              0.673294  1.960039  17.019987  182.352781
+linear_search_sentinel     0.634670  2.143860  19.438028  206.815720
+binary_search_iterative    0.658512  1.198053   2.259970    2.863169
+binary_search_recursive    0.730991  1.329660   2.336025    2.931833
+binary_search_randomized   2.601862  5.013943   8.730650   11.415005
+binary_search_onesided     1.338720  2.013206   3.230095    4.095316
+binary_search_better       0.764608  1.146793   1.996756    2.538204
+ternary_search_iterative   0.781775  1.342773   2.429724    3.075361
+ternary_search_recursive   0.773191  1.325607   2.389669    3.054380
+ternary_search_randomized  3.464460  5.969763  10.574341   12.932301
+exponential_search         1.141548  1.965761   3.134727    4.076719
+jump_search                1.876354  4.392385  11.019945   29.697895
+fibonacci_search           1.592159  2.648115   4.559994    5.472183
+interpolation_search       0.996351  1.498938   2.197027    2.280712
+
+Process finished with exit code 0
